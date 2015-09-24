@@ -1,0 +1,42 @@
+Developing Data Products
+========================================================
+author: Coursera Course Project
+date: September 22nd, 2015
+transition: rotate
+
+Goal
+========================================================
+The goal of this presentation is to review the Shiny application that was created 
+by me for the Coursera Developing Data Products class.
+
+Application Description
+===
+
+This is a simple application to convert temperature from degrees Fahrenheit to degrees Celsius. Many recipes often have the temperature listed in Fahrenheit. This is a quick and easy app to convert the temperature to Celsius
+
+
+Screenshot of the Application
+========================================================
+
+![alt text](temp.png)
+
+
+
+References
+========================================================
+
+R Studio Presenter
+https://class.coursera.org/devdataprod-032/lecture/15                                     
+```{r link1, results='asis', echo=FALSE}
+html <- "https://class.coursera.org/devdataprod-032/lecture/15"  
+cat(paste("[click here](",html,")",sep=""))
+```
+
+
+Authoring R presentations                 https://support.rstudio.com/hc/en-us/articles/200486468-Authoring-R-Presentations        
+```{r link2, results='asis', echo=FALSE}
+html <- "https://support.rstudio.com/hc/en-us/articles/200486468-Authoring-R-Presentations"
+cat(paste("[click here](",html,")",sep=""))
+```
+
+
