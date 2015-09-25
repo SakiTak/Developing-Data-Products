@@ -1,3 +1,8 @@
+#This is the UI.R interface for my Shiny application for the Coursera Developing
+#Data Products Course
+#This is a simple app that converts temperature from degrees Fahrenheit to Celsius
+#The user inputs a value in Fahrenheit, hits Submit and the Shiny app converts it to Celsius
+
 #Load the 'shiny' library
 library(shiny)
 
